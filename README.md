@@ -1,4 +1,4 @@
-# TswirTi - Traitement d'Images
+# Tswirty - Traitement d'Images
 
 Application web pour le traitement et l'analyse d'images avec un backend FastAPI et un frontend React.
 
